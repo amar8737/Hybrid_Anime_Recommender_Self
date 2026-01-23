@@ -9,4 +9,4 @@ with open("requirements.txt",  "r") as f:
         author="Amar jeet Kushwaha  ",
         author_email="babuamar455@gmail.com",
         packages=find_packages(),
-        requires=requirements)
+        install_requires=requirements)
