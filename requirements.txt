@@ -1,3 +1,7 @@
 pandas
 numpy
 setuptools
+google
+google-cloud
+google-cloud-storage
+PyYAML
