@@ -1,8 +1,12 @@
 pandas
 numpy
 setuptools
-google
-google-cloud
 google-cloud-storage
-PyYAML
+pyyaml
 tensorflow
+comet-ml
+dvc
+dvc-gs
+flask
+joblib
+python-dotenv
